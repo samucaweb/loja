@@ -1,0 +1,250 @@
+
+03/04/2020 13:21:45 PagSeguro.Session[info]: Begin
+03/04/2020 13:21:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:21:46 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:22:30 PagSeguro.Session[info]: Begin
+03/04/2020 13:22:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:22:31 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:23:08 PagSeguro.Session[info]: Begin
+03/04/2020 13:23:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:23:09 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:27:28 PagSeguro.Session[info]: Begin
+03/04/2020 13:27:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:27:29 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:27:47 PagSeguro.Session[info]: Begin
+03/04/2020 13:27:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:27:48 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:28:59 PagSeguro.Session[info]: Begin
+03/04/2020 13:28:59 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:29:00 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:29:19 PagSeguro.Session[info]: Begin
+03/04/2020 13:29:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:29:20 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:33:55 PagSeguro.Session[info]: Begin
+03/04/2020 13:33:55 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:33:56 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:36:20 PagSeguro.Session[info]: Begin
+03/04/2020 13:36:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:36:21 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:39:44 PagSeguro.Session[info]: Begin
+03/04/2020 13:39:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:39:45 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:40:10 PagSeguro.Session[info]: Begin
+03/04/2020 13:40:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:40:11 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:40:26 PagSeguro.Session[info]: Begin
+03/04/2020 13:40:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:40:26 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:48:52 PagSeguro.Session[info]: Begin
+03/04/2020 13:48:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:48:53 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:51:20 PagSeguro.Session[info]: Begin
+03/04/2020 13:51:20 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:51:21 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:52:40 PagSeguro.Session[info]: Begin
+03/04/2020 13:52:40 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=seu%40email.com&token=sua_chave
+03/04/2020 13:52:41 PagSeguro.Session[error]: Unauthorized
+03/04/2020 13:55:46 PagSeguro.Session[info]: Begin
+03/04/2020 13:55:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 13:55:47 PagSeguro.Session[info]: Session ID: 886fac25e64345309126f9d0b64aa168
+03/04/2020 13:56:19 PagSeguro.Session[info]: Begin
+03/04/2020 13:56:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 13:56:21 PagSeguro.Session[info]: Session ID: eb536554dc9c446183c237ef7f0a5242
+03/04/2020 14:00:28 PagSeguro.Session[info]: Begin
+03/04/2020 14:00:28 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:00:29 PagSeguro.Session[info]: Session ID: 95f709856b144e19a90785d2f8e8bcd4
+03/04/2020 14:01:56 PagSeguro.Session[info]: Begin
+03/04/2020 14:01:56 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:01:57 PagSeguro.Session[info]: Session ID: b923ce4e3e6f415db43482f05091a836
+03/04/2020 14:02:30 PagSeguro.Session[info]: Begin
+03/04/2020 14:02:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:02:31 PagSeguro.Session[info]: Session ID: 517f597e70594593a4eef8606cc708ee
+03/04/2020 14:06:47 PagSeguro.Session[info]: Begin
+03/04/2020 14:06:47 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:06:48 PagSeguro.Session[info]: Session ID: 68bbfdfa1ee547aea34a61e379419950
+03/04/2020 14:07:33 PagSeguro.Session[info]: Begin
+03/04/2020 14:07:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:07:38 PagSeguro.Session[info]: Session ID: a5cb2913f7f241189feb2e2ba6b1db55
+03/04/2020 14:08:30 PagSeguro.Session[info]: Begin
+03/04/2020 14:08:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:08:31 PagSeguro.Session[info]: Session ID: 321391e2ab374f10b71a5888d205dca6
+03/04/2020 14:10:41 PagSeguro.Session[info]: Begin
+03/04/2020 14:10:41 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:10:42 PagSeguro.Session[info]: Session ID: 455f9ae7040047e6b1d638b5cc1896f6
+03/04/2020 14:14:44 PagSeguro.Session[info]: Begin
+03/04/2020 14:14:44 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:14:45 PagSeguro.Session[info]: Session ID: 41f9e355b5954c61a9fa3a1ed8f5e8f3
+03/04/2020 14:15:11 PagSeguro.Session[info]: Begin
+03/04/2020 14:15:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:15:11 PagSeguro.Session[info]: Session ID: 0b25be49fd8f43459d4e7420a7530aab
+03/04/2020 14:17:42 PagSeguro.Session[info]: Begin
+03/04/2020 14:17:42 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:17:47 PagSeguro.Session[info]: Session ID: 397b8f6e907a4545b62bf3fd4fc40ef7
+03/04/2020 14:18:30 PagSeguro.Session[info]: Begin
+03/04/2020 14:18:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:18:31 PagSeguro.Session[info]: Session ID: b8a394c5a3cd403699e2549a1cebee91
+03/04/2020 14:19:32 PagSeguro.Session[info]: Begin
+03/04/2020 14:19:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:19:33 PagSeguro.Session[info]: Session ID: 893b73ca97d24878a5615cfc5780efb9
+03/04/2020 14:19:46 PagSeguro.Session[info]: Begin
+03/04/2020 14:19:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:19:47 PagSeguro.Session[info]: Session ID: 770f64cb44e6491d84659ca8fa00fedb
+03/04/2020 14:21:31 PagSeguro.Session[info]: Begin
+03/04/2020 14:21:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:21:32 PagSeguro.Session[info]: Session ID: f00bbb67971e4f3aaa01828afa813a94
+03/04/2020 14:21:45 PagSeguro.Session[info]: Begin
+03/04/2020 14:21:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:21:45 PagSeguro.Session[info]: Session ID: 8c9fb056d7654d29af0aaff4730b239e
+03/04/2020 14:22:02 PagSeguro.Session[info]: Begin
+03/04/2020 14:22:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:22:04 PagSeguro.Session[info]: Session ID: 648fb927c81642fbb90f0dd4bd538619
+03/04/2020 14:24:18 PagSeguro.Session[info]: Begin
+03/04/2020 14:24:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:24:19 PagSeguro.Session[info]: Session ID: a66d0b5f492c41b2b5bde17874128516
+03/04/2020 14:25:16 PagSeguro.Session[info]: Begin
+03/04/2020 14:25:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:25:17 PagSeguro.Session[info]: Session ID: 2573b998276342a8bf0915497a8480b3
+03/04/2020 14:25:54 PagSeguro.Session[info]: Begin
+03/04/2020 14:25:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:25:55 PagSeguro.Session[info]: Session ID: 3689ba7ec9764f89ba3b1d2fa4787116
+03/04/2020 14:26:36 PagSeguro.Session[info]: Begin
+03/04/2020 14:26:36 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:26:37 PagSeguro.Session[info]: Session ID: 29794b2d081d4380b9791adca8862db3
+03/04/2020 14:35:52 PagSeguro.Session[info]: Begin
+03/04/2020 14:35:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:35:57 PagSeguro.Session[info]: Session ID: 2b77fdb325db4a88b27d112a7b279afa
+03/04/2020 14:37:49 PagSeguro.Session[info]: Begin
+03/04/2020 14:37:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:37:50 PagSeguro.Session[info]: Session ID: e9016a142f2a447d8643f75c2500dda7
+03/04/2020 14:42:52 PagSeguro.Session[info]: Begin
+03/04/2020 14:42:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:42:53 PagSeguro.Session[info]: Session ID: 3eab90e658d94b0dbf92f5f5dab3f1c0
+03/04/2020 14:44:06 PagSeguro.Session[info]: Begin
+03/04/2020 14:44:06 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:44:07 PagSeguro.Session[info]: Session ID: a6210e26909a4f8a82525ed21e487c11
+03/04/2020 14:44:39 PagSeguro.Session[info]: Begin
+03/04/2020 14:44:39 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:44:40 PagSeguro.Session[info]: Session ID: 83d78a3374834213bb4929732df1892e
+03/04/2020 14:45:32 PagSeguro.Session[info]: Begin
+03/04/2020 14:45:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:45:32 PagSeguro.Session[info]: Session ID: 52b1008ad6bb45a0ac4aa6a43af9c1bb
+03/04/2020 14:45:48 PagSeguro.Session[info]: Begin
+03/04/2020 14:45:48 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:45:49 PagSeguro.Session[info]: Session ID: a0a3eff341ea46fc9814054854976ad5
+03/04/2020 14:46:33 PagSeguro.Session[info]: Begin
+03/04/2020 14:46:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:46:34 PagSeguro.Session[info]: Session ID: 6435675551e04bb6bda96865d23ea4d1
+03/04/2020 14:48:14 PagSeguro.Session[info]: Begin
+03/04/2020 14:48:14 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:48:15 PagSeguro.Session[info]: Session ID: 364fd4a9d48c427b8be1fad6cfb6c516
+03/04/2020 14:49:29 PagSeguro.Session[info]: Begin
+03/04/2020 14:49:29 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:49:30 PagSeguro.Session[info]: Session ID: e10f4ea2ac81457fb388eca49857fceb
+03/04/2020 14:49:43 PagSeguro.Session[info]: Begin
+03/04/2020 14:49:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:49:43 PagSeguro.Session[info]: Session ID: 8a17557fb4494fd0bd1dabb1e4a53321
+03/04/2020 14:50:54 PagSeguro.Session[info]: Begin
+03/04/2020 14:50:54 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:50:54 PagSeguro.Session[info]: Session ID: 0609fa2f21bb458184d2fc8fb753ec88
+03/04/2020 14:51:16 PagSeguro.Session[info]: Begin
+03/04/2020 14:51:16 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:51:17 PagSeguro.Session[info]: Session ID: 452152400adb42fbad8c131a5b846e17
+03/04/2020 14:55:02 PagSeguro.Session[info]: Begin
+03/04/2020 14:55:02 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:55:04 PagSeguro.Session[info]: Session ID: 6b4393000acf4fbd89210da5e47496c3
+03/04/2020 14:55:45 PagSeguro.Session[info]: Begin
+03/04/2020 14:55:45 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:55:46 PagSeguro.Session[info]: Session ID: 0b5534ba85c64384ad20f5a0f1d52cf9
+03/04/2020 14:56:17 PagSeguro.Session[info]: Begin
+03/04/2020 14:56:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:56:17 PagSeguro.Session[info]: Session ID: a47143883e814162b9108ff4312d660a
+03/04/2020 14:57:43 PagSeguro.Session[info]: Begin
+03/04/2020 14:57:43 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:57:43 PagSeguro.Session[info]: Session ID: 5d610d71712442859d9f4919fbdb50ae
+03/04/2020 14:58:18 PagSeguro.Session[info]: Begin
+03/04/2020 14:58:18 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 14:58:19 PagSeguro.Session[info]: Session ID: 084792b48109427d8f33417a2d2216cc
+03/04/2020 15:01:52 PagSeguro.Session[info]: Begin
+03/04/2020 15:01:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:01:53 PagSeguro.Session[info]: Session ID: 14594872de48424396dd99f299fa3423
+03/04/2020 15:02:12 PagSeguro.Session[info]: Begin
+03/04/2020 15:02:12 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:02:13 PagSeguro.Session[info]: Session ID: e099ba3b983f4fd9b5d3ee2dd2934cd0
+03/04/2020 15:03:27 PagSeguro.Session[info]: Begin
+03/04/2020 15:03:27 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:03:28 PagSeguro.Session[info]: Session ID: 99cf74f18d1948608e034e1b394a169f
+03/04/2020 15:04:03 PagSeguro.Session[info]: Begin
+03/04/2020 15:04:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:04:05 PagSeguro.Session[info]: Session ID: 109de0d4ec854ee4a7c26be2269d5817
+03/04/2020 15:04:30 PagSeguro.Session[info]: Begin
+03/04/2020 15:04:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:04:31 PagSeguro.Session[info]: Session ID: c15b5e2cbc66417cb4a4e9c3c270ad1a
+03/04/2020 15:06:09 PagSeguro.Session[info]: Begin
+03/04/2020 15:06:09 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:06:10 PagSeguro.Session[info]: Session ID: 6bf9706347fd4913ae4815493e1c0378
+03/04/2020 15:06:52 PagSeguro.Session[info]: Begin
+03/04/2020 15:06:52 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:06:53 PagSeguro.Session[info]: Session ID: 20adec58dddb461bb3f880059f7bf623
+03/04/2020 15:10:23 PagSeguro.Session[info]: Begin
+03/04/2020 15:10:23 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:10:24 PagSeguro.Session[info]: Session ID: 846fc54081804dbcb2772a0d1158cf7f
+03/04/2020 15:11:26 PagSeguro.Session[info]: Begin
+03/04/2020 15:11:26 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 15:11:26 PagSeguro.Session[info]: Session ID: 598be5be092f429dbf46cd3ee9efa1a9
+03/04/2020 21:37:04 PagSeguro.Session[info]: Begin
+03/04/2020 21:37:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 21:37:06 PagSeguro.Session[info]: Session ID: d3131676b2bd43c3b0983ee63bfba0cc
+03/04/2020 21:41:04 PagSeguro.Session[info]: Begin
+03/04/2020 21:41:04 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 21:41:05 PagSeguro.Session[info]: Session ID: 0ae1b2a3bc344058a92641b1160db96b
+03/04/2020 21:53:51 PagSeguro.Session[info]: Begin
+03/04/2020 21:53:51 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 21:53:52 PagSeguro.Session[info]: Session ID: b2a1a4078e354a5cbfdd25d98b6ee85b
+03/04/2020 22:00:46 PagSeguro.Session[info]: Begin
+03/04/2020 22:00:46 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:00:47 PagSeguro.Session[info]: Session ID: 28e5cfdb35aa49439e39465299b016ee
+03/04/2020 22:01:38 PagSeguro.Session[info]: Begin
+03/04/2020 22:01:38 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:01:42 PagSeguro.Session[info]: Session ID: 55f963f5e2734f47815ef906dfa00441
+03/04/2020 22:03:53 PagSeguro.Session[info]: Begin
+03/04/2020 22:03:53 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:03:54 PagSeguro.Session[info]: Session ID: 3a8b82657fc7486095e6c6bad3986a6d
+03/04/2020 22:08:17 PagSeguro.Session[info]: Begin
+03/04/2020 22:08:17 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:08:18 PagSeguro.Session[info]: Session ID: 9087efb70c3f4007a3e11c047d0c331e
+03/04/2020 22:09:11 PagSeguro.Session[info]: Begin
+03/04/2020 22:09:11 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:09:11 PagSeguro.Session[info]: Session ID: 32371c1c02104ddcaff8bc978c400db7
+03/04/2020 22:11:08 PagSeguro.Session[info]: Begin
+03/04/2020 22:11:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:11:09 PagSeguro.Session[info]: Session ID: eb110f005074467f8822467176d8c430
+03/04/2020 22:19:08 PagSeguro.Session[info]: Begin
+03/04/2020 22:19:08 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:19:09 PagSeguro.Session[info]: Session ID: e78d40a3834940fda7f433ba5bb9445e
+03/04/2020 22:20:49 PagSeguro.Session[info]: Begin
+03/04/2020 22:20:49 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:20:51 PagSeguro.Session[info]: Session ID: 30bbd4b113ff441ba8dce42e456aabf1
+03/04/2020 22:22:03 PagSeguro.Session[info]: Begin
+03/04/2020 22:22:03 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:22:05 PagSeguro.Session[info]: Session ID: 4b83074d311e4feea4c9ab665578bd23
+03/04/2020 22:22:25 PagSeguro.Session[info]: Begin
+03/04/2020 22:22:25 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:22:26 PagSeguro.Session[info]: Session ID: 5ca34061753a41d390e5ec7530f4852b
+03/04/2020 22:24:05 PagSeguro.Session[info]: Begin
+03/04/2020 22:24:05 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:24:06 PagSeguro.Session[info]: Session ID: 084bda399b704a31a5b3889f3e90178e
+03/04/2020 22:24:30 PagSeguro.Session[info]: Begin
+03/04/2020 22:24:30 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:24:31 PagSeguro.Session[info]: Session ID: aae790ac938b43a08e0e3028461dfc28
+03/04/2020 22:24:31 PagSeguro.Session[info]: Begin
+03/04/2020 22:24:31 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:24:32 PagSeguro.Session[info]: Session ID: 37a19962f5e74704a562ea1952ddcf30
+03/04/2020 22:24:32 PagSeguro.Session[info]: Begin
+03/04/2020 22:24:32 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:24:32 PagSeguro.Session[info]: Session ID: dbefce4419044d49bc592546c8c71e65
+03/04/2020 22:24:33 PagSeguro.Session[info]: Begin
+03/04/2020 22:24:33 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:24:33 PagSeguro.Session[info]: Session ID: 87b54c66e715474785251d17587de9db
+03/04/2020 22:27:19 PagSeguro.Session[info]: Begin
+03/04/2020 22:27:19 PagSeguro.Session[info]: POST: https://ws.sandbox.pagseguro.uol.com.br/v2/sessions?email=samucahtmlphp%40gmail.com&token=A08EEBBDBBB44909BBC1A88318789570
+03/04/2020 22:27:20 PagSeguro.Session[info]: Session ID: e70938caf34b45578f24263ab53a10fa
